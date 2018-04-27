@@ -4,7 +4,7 @@
   Written by Erik Lemcke, combined out of the following samples:
 
   https://www.letscontrolit.com/forum/viewtopic.php?f=2&t=1785&start=40, calibration sample by s3030150 
-  https://www.home-assistant.io/blog/2015/10/11/measure-temperature-with-esp8266-and-report-to-mqtt/, hjome assistant mqqt by Paulus Schoutsen
+  https://www.home-assistant.io/blog/2015/10/11/measure-temperature-with-esp8266-and-report-to-mqtt/, home assistant mqqt by Paulus Schoutsen
 
   wiring:
   ESP --> mh-z14a
